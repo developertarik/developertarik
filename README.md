@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developertarik
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Full Stack  Technologies
+- 🌱 I’m currently learning Front-End  Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
